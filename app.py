@@ -21,3 +21,5 @@ def get_hit_count():
 def hello():
     count = get_hit_count()
     return "Goodbye, it was Nice seeing you {} times.\n".format(count)
+#just some random comment 
+#testing explicitly
