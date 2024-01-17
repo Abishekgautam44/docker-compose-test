@@ -1,3 +1,4 @@
+#for flask project 
 # syntax=docker/dockerfile:experimental
 FROM python:3.7-alpine
 WORKDIR /code
